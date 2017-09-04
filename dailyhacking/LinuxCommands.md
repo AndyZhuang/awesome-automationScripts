@@ -19,3 +19,7 @@ scp your_username@<host1>:/some/remote/directory/foobar.txt your_username@<host2
 [>] Improve scp performance (use blowfish):
 
 scp -c blowfish <local_file> your_username@192.168.0.10:/some/remote/directory
+
+## tcpdump 20170904
+
+> tcpdump -i en0 -c 500 tcp and port 80
