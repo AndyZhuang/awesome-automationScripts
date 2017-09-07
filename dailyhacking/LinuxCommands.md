@@ -20,6 +20,6 @@
 
 > scp -c blowfish <local_file> your_username@192.168.0.10:/some/remote/directory
 
-## tcpdump 20170904
+## tcpdump
 
 > tcpdump -i en0 -c 500 tcp and port 80
