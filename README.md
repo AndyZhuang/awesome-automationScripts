@@ -1,2 +1,18 @@
-# AZStudyNote
-Study note about Programming, Bio Tech, Information Security and Physics,  Learning just for fun
+# Automation scripts
+Intend to build of collection of automation scripts
+
+
+# Shell
+
+
+
+
+# Python
+
+
+
+
+# Ruby
+
+
+
